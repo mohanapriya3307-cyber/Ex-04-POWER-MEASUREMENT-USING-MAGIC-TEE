@@ -57,3 +57,5 @@ Isolation between E and H arms (dB) = (A1 – A2) dB Coupling between collinear 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+
+The Magic Tee correctly demonstrated sum and difference power behavior, with higher power at the sum port and reduced or null power at the difference port, validating its proper operation.
